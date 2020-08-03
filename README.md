@@ -14,3 +14,8 @@ cd src
 npm start
 ```
 
+## How to use?
+
+- Click on Add to add a new Todo
+- Tap to delete
+
