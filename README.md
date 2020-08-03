@@ -1,6 +1,6 @@
-# A Simple Demonstration of State-Management in React using useReducer,useContext and Material-UI
+# A Simple Demonstration of State-Management in React using useReducer,useContext and Material-UI: Todo App
 
-## Capstone Project: Todo App
+
 
 ## Setup
 ```
